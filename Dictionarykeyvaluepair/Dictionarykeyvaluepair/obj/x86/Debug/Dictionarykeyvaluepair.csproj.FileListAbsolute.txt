@@ -1,0 +1,5 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\Dictionarykeyvaluepair\Dictionarykeyvaluepair\bin\Debug\Dictionarykeyvaluepair.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Dictionarykeyvaluepair\Dictionarykeyvaluepair\bin\Debug\Dictionarykeyvaluepair.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\Dictionarykeyvaluepair\Dictionarykeyvaluepair\obj\x86\Debug\Dictionarykeyvaluepair.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\Dictionarykeyvaluepair\Dictionarykeyvaluepair\obj\x86\Debug\Dictionarykeyvaluepair.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\Dictionarykeyvaluepair\Dictionarykeyvaluepair\obj\x86\Debug\Dictionarykeyvaluepair.csprojResolveAssemblyReference.cache

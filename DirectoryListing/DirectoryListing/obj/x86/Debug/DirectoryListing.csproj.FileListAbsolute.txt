@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\DirectoryListing\DirectoryListing\bin\Debug\DirectoryListing.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\DirectoryListing\DirectoryListing\bin\Debug\DirectoryListing.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\DirectoryListing\DirectoryListing\obj\x86\Debug\DirectoryListing.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\DirectoryListing\DirectoryListing\obj\x86\Debug\DirectoryListing.pdb

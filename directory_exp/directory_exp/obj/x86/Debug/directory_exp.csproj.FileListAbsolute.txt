@@ -1,0 +1,4 @@
+c:\users\chakrapani\documents\visual studio 2010\Projects\directory_exp\directory_exp\bin\Debug\directory_exp.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\directory_exp\directory_exp\bin\Debug\directory_exp.pdb
+c:\users\chakrapani\documents\visual studio 2010\Projects\directory_exp\directory_exp\obj\x86\Debug\directory_exp.exe
+c:\users\chakrapani\documents\visual studio 2010\Projects\directory_exp\directory_exp\obj\x86\Debug\directory_exp.pdb
